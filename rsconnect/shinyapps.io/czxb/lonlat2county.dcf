@@ -1,0 +1,13 @@
+name: lonlat2county
+title: lonlat2county
+username:
+account: czxb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4423778
+bundleId: 4856476
+url: https://czxb.shinyapps.io/lonlat2county/
+when: 1627296358.42743
+lastSyncTime: 1627296358.42744
+asMultiple: FALSE
+asStatic: FALSE
