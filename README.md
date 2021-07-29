@@ -1,10 +1,8 @@
 # lonlat2county: 根据经纬度判断所处的省市区县
 
-![](https://mdniceczx.oss-cn-beijing.aliyuncs.com/image_20210728142843.png)
-
-> 在线：https://czxb.shinyapps.io/lonlat2county/ 
-> 本地：shiny::runGitHub("r-stata/lonlat2county")
-> 下载之后在本地：shiny::runApp("lonlat2county")
+> 在线：https://czxb.shinyapps.io/lonlat2county/   
+> 本地：shiny::runGitHub("r-stata/lonlat2county")  
+> 下载之后在本地：shiny::runApp("lonlat2county")  
 
 ---
 
